@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e678a629cf916af9b10cd9e7",
+  "owner": "jjjpkymfbak",
+  "repo": "page-796a93dd24e118f0450417a4",
+  "title": "飞鸟云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "796a93dd24e118f0450417a4",
+      "a": "飞鸟云",
+      "b": "稳定全球clash加速器",
+      "entity": "飞鸟云",
+      "brand": "飞鸟云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d6d80f949876531821487ee31f75810b2199553eb5b180604f16e80fbccd253a",
+      "content": {
+        "primary_entity": "飞鸟云",
+        "keyword1": "飞鸟云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端匹配",
+          "AI_CLOSING_TEXT": "挑好套餐后按设备导入订阅，就能开始使用飞鸟云。",
+          "AI_CLOSING_TITLE": "选对套餐，快速连接",
+          "AI_DESCRIPTION": "，飞鸟云提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备在线需求。旗舰版侧重全节点流媒体解锁与 IPLC 专线游戏加速，团队版面向多设备协作场景，按年付可节省相应费用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度挑选飞鸟云套餐。",
+          "AI_FEATURES_TITLE": "订阅选择维度",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备，适合轻量使用；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版配备 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按月或按年付费，按年付价格分别为 ¥150/年、¥350/年和 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "三步完成飞鸟云订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "飞鸟云为需要稳定全球网络连接的用户提供 Clash 加速订阅，基础版、旗舰版和团队版分别对应不同流量与设备数，按年付费可降低月均成本。",
+          "AI_HERO_SUBTITLE": "飞鸟云套餐与客户端配置",
+          "AI_HIGHLIGHT_1": "三档套餐匹配不同流量需求",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备在线",
+          "AI_HIGHLIGHT_3": "按年付可节省订阅费用",
+          "AI_PLANS_INTRO": "基础版 100GB/3 设备，旗舰版 300GB/5 设备，团队版 1000GB/20 设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量和线路类型，在基础版、旗舰版、团队版之间选定订阅。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在所选客户端的支持范围内，并留意套餐允许的同时在线设备数量。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅链接，按客户端文档完成节点选择与连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞鸟云订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，适合个人手机与电脑组合使用；旗舰版支持5台，满足家庭多设备；团队版支持20台，适合小型团队协作。",
+          "AI_FAQ_ANSWER_2": "飞鸟云提供月付和年付两种周期。基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付通常更划算，适合长期需求。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含全节点原生流媒体解锁和IPLC专线游戏加速优化，基础版则提供基础流媒体解锁和普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，根据设备系统下载对应客户端，在客户端内扫描或粘贴订阅链接即可完成配置。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由选项，并提供专属客户经理服务，适合有特定网络架构需求的团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_3": "旗舰版比基础版多了哪些功能？",
+          "AI_FAQ_QUESTION_4": "如何配置客户端订阅？",
+          "AI_FAQ_QUESTION_5": "团队版是否支持定制化需求？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lilinapp.cn",
+    "host": "lilinapp.cn"
+  },
+  "file_hashes": {
+    "index.html": "8b15d5c7ac4c06399e86f776a4b8dda77a51b854910cd929c54909b8e4674b13",
+    "sitemap.xml": "f216d2573c14c9acfc3d015f47a96244802a486322eb504cb4394528e1185c7c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1fe79ecfd86a29f66e15146eceb9bec9d1d604accb6eb93ce05ed8821d2b84bb",
+    "robots.txt": "e46967385efd1a230a58548e30178feed7ca73ec2f6bd99403bcc81b198a525e",
+    "27eba59a3f11c1cc36447b6987df4691.txt": "d51120a1239d97eb50e3bfb6a79f1c77f62d6fe96f9da9284ae95dbdfda4377f"
+  },
+  "revision": "f7daf0dea9589915638b6369d43f29b9c70d29ce37ec2bde88cbab931d1fbf28"
+}
